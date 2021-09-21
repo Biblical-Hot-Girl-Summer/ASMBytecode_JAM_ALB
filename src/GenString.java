@@ -4,7 +4,7 @@ import org.objectweb.asm.*;
 
 /***
  * Class generates a string class that prints out a string
- * @author Jacob Morris
+ * @author Jacob Morris, Aaron Bone
  * @version 1.2.3
  */
 

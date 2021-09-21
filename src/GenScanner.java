@@ -4,7 +4,7 @@ import org.objectweb.asm.*;
 
 /***
  * Class generates a scanner class that takes allows the user to input a int, double, and long and prints the result out
- * @author Jacob Morris
+ * @author Jacob Morris, Aaron Bone
  * @version 1.2.3
  */
 

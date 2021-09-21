@@ -4,7 +4,7 @@ import org.objectweb.asm.*;
 
 /***
  * Class generates a if, then, else class that takes an int and checks if it equals 0 or not.
- * @author Jacob Morris
+ * @author Jacob Morris, Aaron Bone
  * @version 1.2.3
  */
 

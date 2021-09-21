@@ -5,7 +5,7 @@ import org.objectweb.asm.*;
 /***
  * Class generates a comparison class that takes predefined numbers and returns 1, 0, or -1 depending if the first value is greater, equal, or less than the second
  * value. Values are double, long, and int.
- * @author Jacob Morris
+ * @author Jacob Morris, Aaron Bone
  * @version 1.2.3
  */
 public class GenCMP {

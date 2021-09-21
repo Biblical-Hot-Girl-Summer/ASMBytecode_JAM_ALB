@@ -4,7 +4,7 @@ import org.objectweb.asm.*;
 
 /***
  * Class generates a while loop class that counts from 0 to 10, printing the number after each iteration
- * @author Jacob Morris
+ * @author Jacob Morris, Aaron Bone
  * @version 1.2.3
  */
 

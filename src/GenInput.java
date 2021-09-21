@@ -4,7 +4,7 @@ import org.objectweb.asm.*;
 
 /***
  * Class generates a user input class that takes 5 int inputs and adds them together while the inputs are made
- * @author Jacob Morris
+ * @author Jacob Morris, Aaron Bone
  * @version 1.2.3
  */
 

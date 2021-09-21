@@ -4,7 +4,7 @@ import org.objectweb.asm.*;
 
 /***
  * Class generates a divider class that takes predefined numbers and divides the first value by the second. Does it three times with double, int, and long.
- * @author Jacob Morris
+ * @author Jacob Morris, Aaron Bone
  * @version 1.2.3
  */
 
